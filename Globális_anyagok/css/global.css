@@ -4,6 +4,14 @@
     object-fit: cover;
 }
 body{
-    background-image:url(../img/orangeguy.jpg);
+    background-color:grey;
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.cim{
+    font-variant: small-caps;
+}
+.card-footer{
+    border-top:none
 }
