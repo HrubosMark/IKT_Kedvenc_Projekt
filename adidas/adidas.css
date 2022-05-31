@@ -1,0 +1,21 @@
+h4 {
+    text-decoration: underline;
+    font-style: small-caps;
+}
+
+p{
+    font-style: small-caps;
+    margin:15px;
+     color: rgb(255,255,255);
+color: radial-gradient(circle, rgba(255,255,255,1) 5%, rgba(98,98,98,1) 100%);
+}
+body{
+    background: rgb(98,98,98);
+    background: radial-gradient(circle, rgba(98,98,98,1) 80%, rgba(255,255,255,1) 100%);
+}
+
+
+h2, h5, h4, li {
+    color: rgb(255,255,255);
+    color: radial-gradient(circle, rgba(255,255,255,1) 5%, rgba(98,98,98,1) 100%);
+}
